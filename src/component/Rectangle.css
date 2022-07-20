@@ -8,11 +8,11 @@
 
 .rc-container .rectangle{
     top: 134px;
-    position: absolute;
     text-align: center;
 }
 
 .rc-container .rectangle .rec-text{
+    padding-top: 134px;
     font-family: 'WorkSans';
     font-size: 52px;
     line-height: 51px;
@@ -30,14 +30,22 @@
     line-height: 19px;
     width: 257px;
     height: 19px;
-    left: 59px;
-    top: 256px;
 }
 
-.rc-container .rectangle .img{
-width: 132px;
-height: 132px;
-left: -66px;
-top: 273px;
+.pic-1 img{
+    justify-content: left;
+    z-index: -44px;
+    position: absolute;
+}
 
+.pic-1{
+    justify-content: center;
+}
+
+.pic-2 img{
+    width: 184px;
+    height: 305px;
+    padding-left: 96px;
+    padding-top: 50px;
+    padding-bottom: 84px;
 }
