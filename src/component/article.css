@@ -1,0 +1,29 @@
+.ar-container{
+width: 375px;
+height: 2038px;
+left: 0px;
+top: 1315px;
+margin: auto;
+
+background: #000000;
+}
+
+.article{
+    width: 311px;
+height: 192px;
+left: 32px;
+top: 1545px;
+margin: auto;
+}
+
+.ar-pov{
+    top: 1545px;
+    font-family: 'WorkSans';
+font-size: 16px;
+line-height: 24px;
+letter-spacing: -0.571429px;
+
+color: #FFFFFF;
+
+
+}

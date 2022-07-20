@@ -1,0 +1,27 @@
+.ft-container{
+    width: 375px;
+    height: 67px;
+    left: 0px;
+    top: 3286px;
+    margin: auto;
+    background: #0B24FB;
+}
+
+.footer{
+    
+    width: 74px;
+    height: 14px;
+    left: 24px;
+    top: 3313px;
+}
+
+.footer .text-left{
+    padding-top: 27px;
+    padding-left: 24px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}

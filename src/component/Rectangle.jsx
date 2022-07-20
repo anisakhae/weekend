@@ -7,10 +7,10 @@ const Rectangle = () => {
     <div className="rc-container">
         <div className="rectangle">
             <div className="rec-text">
-                WEEKEND FROM HOME
+                
             </div>
             <i className="rec-text-1">stay active with a little workout</i>
-            <img src={Oval} alt="" />
+            {/* <img src={Oval} alt="" /> */}
         </div>
     </div>
   )

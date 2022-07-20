@@ -1,0 +1,41 @@
+.bd-container{
+    width: 375px;
+    height: 648px;
+    left: 0px;
+    top: 667px;
+    background: #EEBECE;
+    margin: auto;
+}
+
+.bd-container .body{
+    width: 311px;
+height: 168px;
+left: 32px;
+top: 888px;
+}
+
+.bd-container .body .bd-text-1{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+
+/* or 150% */
+text-align: right;
+letter-spacing: -0.571429px;
+padding-top: 221px;
+padding-left: 32px;
+
+}
+
+.bd-container .body .bd-text-2{
+    font-family: 'WorkSans';
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+text-align: right;
+
+color: #FFFFFF;
+}
