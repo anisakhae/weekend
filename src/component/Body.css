@@ -1,7 +1,7 @@
 .bd-container{
     width: 375px;
     height: 648px;
-    left: 0px;
+    /* left: 0px; */
     top: 667px;
     background: #EEBECE;
     margin: auto;
@@ -33,9 +33,25 @@ padding-left: 32px;
     font-family: 'WorkSans';
 font-size: 16px;
 line-height: 19px;
-
-/* identical to box height */
 text-align: right;
 
 color: #FFFFFF;
+}
+
+.bd-container .pic-1{
+    justify-content: right;
+    margin-top: 0px;
+}
+
+.pic-1 img{
+    width: 95px;
+    height: 158px;
+    transform: rotate(-90deg);
+    margin-left: 248px;
+    margin-top: -150px;
+
+}
+
+.pic-2 img{
+
 }

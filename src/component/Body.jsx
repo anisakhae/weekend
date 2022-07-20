@@ -1,5 +1,7 @@
 import React from 'react'
 import './Body.css'
+import Bitmap from '../img/Bitmap-2.png'
+import Path from '../img/Path-4.png'
 
 const Body = () => {
   return (
@@ -11,6 +13,12 @@ const Body = () => {
             exhaust (something, such as a mine) by 
             working to devise, arrange, or achieve by r
             esolving difficulties. Merriam-Webster.com Dictionary.</div>
+        </div>
+        <div className="pic-1">
+          <img src={Bitmap} alt="" />
+        </div>
+        <div className="pic-2">
+          <img src={Path} alt="" />
         </div>
     </div>
   )

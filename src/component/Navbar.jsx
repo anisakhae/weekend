@@ -6,9 +6,10 @@ const Navbar = () => {
   return (
     <div className="container">
       <div className="navbar">
-        <img src="" alt="" />
-        <div className="text"></div>
-        <span className='text-1'></span>
+        <img src={Bitmap} alt="" />
+      </div>
+      <div className="text">
+        <h1>Good Morning</h1>
       </div>
     </div>
   )
