@@ -1,0 +1,21 @@
+.container{
+    background-color: beige;
+    width: 375px;
+    height: 67px;
+    box-sizing: content-box;
+    margin: auto;
+}
+
+.container .navbar{
+    /* padding-top: 17px;
+    padding-left: 70px;
+    padding-right: 223px; */
+}
+
+.container .navbar .text{
+    /* font-size: 12px;
+    width: 82px;
+    height: 14px;
+    font-family: 'WorkSans';
+    line-height: 14px; */
+}
