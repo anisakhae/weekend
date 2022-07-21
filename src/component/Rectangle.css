@@ -32,15 +32,13 @@
     height: 19px;
 }
 
-.pic-1 img{
+.rc-container .pic-1{
     justify-content: left;
-    z-index: -44px;
-    position: absolute;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding-right: 10px;
 }
 
-.pic-1{
-    justify-content: center;
-}
 
 .pic-2 img{
     width: 184px;

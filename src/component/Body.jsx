@@ -1,6 +1,5 @@
 import React from 'react'
 import './Body.css'
-import Bitmap from '../img/Bitmap-2.png'
 import Path from '../img/Path-4.png'
 
 const Body = () => {
@@ -13,11 +12,9 @@ const Body = () => {
             exhaust (something, such as a mine) by 
             working to devise, arrange, or achieve by r
             esolving difficulties. Merriam-Webster.com Dictionary.</div>
+            <div className="bd-text-2">-weekend team</div>
         </div>
-        <div className="pic-1">
-          <img src={Bitmap} alt="" />
-        </div>
-        <div className="pic-2">
+        <div className="img-1">
           <img src={Path} alt="" />
         </div>
     </div>

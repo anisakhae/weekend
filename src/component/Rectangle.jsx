@@ -11,12 +11,12 @@ const Rectangle = () => {
             </div>
             <i className="rec-text-1">stay active with a little workout</i>
         </div>
-        <div className="pic-1">
-          <img src={Oval} alt="" />
-        </div>
         <div className="pic-2">
           <img src={Bitmap} alt="" />
         </div>
+        {/* <div className="pic-1">
+          <img src={Oval} alt="" />
+        </div> */}
         
     </div>
   )
